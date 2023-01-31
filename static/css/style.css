@@ -1,0 +1,117 @@
+header {
+    font-size: 18px;
+    border-bottom: 1px solid black;
+}
+
+.index {
+    padding: 30px 66px 30px 537px;
+    display: inline-block
+}
+
+.about {
+    padding: 30px 66px 30px 66px;
+    display: inline-block
+}
+
+.contact {
+    padding: 30px 66px 30px 66px;
+    display: inline-block
+}
+
+div {
+    display: inline-block;
+}
+
+.div1 {
+    width: 333px;
+    height: 487px;
+    margin: 247px 112px 24px 126px;
+    border: 1px solid black;
+}
+
+.div2 {
+    width: 333px;
+    height: 487px;
+    box-sizing: border-box;
+    margin: 264px 112px 24px 0px;
+    border: 1px solid black;
+}
+
+.div3 {
+    width: 333px;
+    height: 487px;
+    margin: 253px 105px 24px 0px;
+    border: 1px solid black;
+}
+
+img {
+    padding: 10px 0px 0px 10px;
+}
+
+h2 {
+    padding: 15px 45px 15px 25px;
+}
+
+p {
+    padding: 15px 45px 15px 25px;
+}
+
+.button1 {
+    font-size: 16px;
+    padding: 6px 26px 6px 26px;
+    border-radius: 4px;
+    margin-left: 342px;
+}
+
+.button2 {
+    font-size: 16px;
+    padding: 6px 26px 6px 26px;
+    border-radius: 4px;
+    margin-left: 351px;
+}
+
+.button3 {
+    font-size: 16px;
+    padding: 6px 26px 6px 26px;
+    border-radius: 4px;
+    margin-left: 314px;
+}
+
+/* ending css index.html */
+/*  starting css contact.html */
+.h1contact {
+    box-sizing: border-box;
+    font-size: 40px;
+    margin: 270px 609px 117px 609px;
+}
+
+.ulcontact {
+    font-size: 25px;
+    margin: 0px 997px 539px 175px;
+}
+
+.licontact {
+    margin-top: 15px;
+}
+
+/* ending css contact.html */
+/* starting css about.html */
+
+
+.h1about {
+    font-size: 40px;
+    margin: 270px 517px 117px 517px;
+}
+
+.pabout {
+
+    font-size: 25px;
+    margin: 0px 1555px 108px 175px;
+    padding: 0px;
+
+}
+
+address {
+    font-size: 25px;
+    margin: 0px 892px 311px 175px;
+}
