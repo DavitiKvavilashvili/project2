@@ -9,6 +9,7 @@ header {
     padding: 30px 0;
 }
 
+
 li {
     display: inline-block;
 }
@@ -19,29 +20,52 @@ li {
 
 .box-top {
     border: 1px solid black;
+    border-radius: 2px;
+    width: 333px;
+    height: 487px;
 }
 
-div {
+.box {
+    margin: 250px 100px;
     display: inline-block;
 }
 
+h3 {
+    padding: 25px;
+}
+
+p {
+    padding: 0 25px;
+}
+
+button {
+    padding: 6px 26px;
+}
+
+.box-button {
+    margin-top: 25px;
+    margin-left: 210px;
+}
+
+section {
+    text-align: center;
+}
 
 /* ending css index.html */
 /*  starting css contact.html */
-.h1contact {
+
+.contact-title {
     box-sizing: border-box;
     font-size: 40px;
     margin: 270px 609px 117px 609px;
 }
 
-.ulcontact {
-    font-size: 25px;
-    margin: 0px 997px 539px 175px;
+.contact-list {
+    display: block;
 }
 
-.licontact {
-    margin-top: 15px;
-}
+
+
 
 /* ending css contact.html */
 /* starting css about.html */
