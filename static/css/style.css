@@ -61,7 +61,10 @@ section {
 }
 
 .contact-list {
-    display: block;
+    display: inline-block;
+    margin-right: 60%;
+    font-size: 25px;
+
 }
 
 
