@@ -81,15 +81,14 @@ section {
     margin: 270px 517px 117px 517px;
 }
 
-.pabout {
-
+.p-about {
     font-size: 25px;
-    margin: 0px 1555px 108px 175px;
-    padding: 0px;
+    margin: 117px 490px 0px 175px;
+    display: inline-block;
 
 }
 
 address {
     font-size: 25px;
-    margin: 0px 892px 311px 175px;
+    margin: 108px 892px 311px 175px;
 }
