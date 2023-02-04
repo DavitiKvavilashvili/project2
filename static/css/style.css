@@ -10,10 +10,13 @@ header {
 
 }
 
-
-li {
+header li {
     display: inline-block;
-    text-decoration: none;
+}
+
+.home-title h1 {
+    font-size: 24px;
+    text-align: center;
 }
 
 .nav-center {
@@ -52,6 +55,21 @@ button {
 section {
     text-align: center;
 }
+
+.bottom-list {
+    display: inline-block;
+    font-size: 14px;
+    margin-top: 62px;
+}
+
+.bottom-list li {
+    list-style: circle;
+    text-align: left;
+    line-height: 19px;
+}
+
+
+
 
 /* ending css index.html */
 /*  starting css contact.html */
